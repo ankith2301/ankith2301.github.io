@@ -343,7 +343,9 @@
 {
     .footer{
         width: 70%;
-    }
+    .footer .form-container{
+     height:20vh;
+}
 }
 .type-writer{
     overflow: hidden;
